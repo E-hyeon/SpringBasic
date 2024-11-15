@@ -1,8 +1,8 @@
-package helllo.hello_spring;
+package hello.hello_spring;
 
-import helllo.hello_spring.repository.MemberRepository;
-import helllo.hello_spring.repository.MemoryMemberRepository;
-import helllo.hello_spring.service.MemberService;
+import hello.hello_spring.repository.MemberRepository;
+import hello.hello_spring.repository.MemoryMemberRepository;
+import hello.hello_spring.service.MemberService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
